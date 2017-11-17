@@ -13,6 +13,3 @@ label of the artists and their name when moving the mouse on the dots.
 
 What needs to be improved : some artists appear several times, it should rather sum up the views.
 
-Texte en **gras**
-
-[Lien](http://lien.com)
