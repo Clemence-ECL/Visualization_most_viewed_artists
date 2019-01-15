@@ -3,7 +3,7 @@
 ## Visualization of most viewed songs from Youtube
 
 This project aims to create a simple visualization about the artists whose songs have
-been the most viewed on Youtube.
+been the most viewed on Youtube. (short school project)
 
 The dataset has several entries like name of the song, names of the artists but also the age,
 the sex, the artist origin etc.
